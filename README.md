@@ -7,7 +7,7 @@ This repository provides a demonstration of Conformal Prediction Interval Counte
 
 #### Conformal Counterfactual Generation Demo
 
-[![Open In Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](notebooks/CPICF_demo.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/alan-turing-institute/notebooks/CPICF.ipynb)
+[![Open In Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](notebooks/CPICF_demo.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/alan-turing-institute/notebooks/CPICF_demo.ipynb)
 
 
 #### Installation Instructions
